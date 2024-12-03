@@ -54,7 +54,7 @@ echo "<script>window.location.href='booking-history.php'</script>";
 
 	                                                                              
 	<!-- Page top Section -->
-	<section class="page-top-section set-bg" data-setbg="img/page-top-bg.jpg">
+	<section class="page-top-section set-bg" data-setbg="img/pexels-victorfreitas-949128.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 m-auto text-white">
@@ -73,9 +73,9 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 
 				<div class="col-lg-12 col-sm-6">
-<p><strong>Email:</strong> info@yourdomain.com</p>
+<p><strong>Email:</strong> admin@mygym.com</p>
 <p><strong>Contact No:</strong> 1234567890, 1122334455</p>
-<p><strong>Address:</strong> Test Address</p>
+<p><strong>Address:</strong> Plot no:97/98, Khanda Colony, Nr. Aadai Village, Sector 08, New Panvel East, Panvel, Navi Mumbai, Mumbai, Maharashtra 410206</p>
 				</div>
 			</div>
 		</div>

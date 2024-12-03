@@ -94,28 +94,25 @@ if(isset($_POST['submit'])) {
 						 <?php if($error){?><div class="errorWrap" style="color:red;"><strong>ERROR</strong>:<?php echo htmlentities($error); ?> </div><?php } 
                 else if($msg){?><div class="succWrap" style="color:red;"><strong>Error</strong>:<?php echo htmlentities($msg); ?> </div><?php }?>
 
-						<form class="singup-form contact-form" method="post">
-						<div class="row">
-							<div class="col-md-12">
-								<input type="text" name="email" id="email" placeholder="Your Email" autocomplete="off" required>
-							</div>
-							<div class="col-md-12">
-								<input type="password" name="password" id="password" placeholder="Password" autocomplete="off" required>
-							</div>
-							
-							
-						</div>
-						<div class="row">
-					<div class="col-md-6">
-					<input type="submit" id="submit" name="submit" value="Login" class="site-btn sb-gradient">
-					</div>
-<div class="col-md-6">
-	
-<a href="registration.php" class="site-btn sb-gradient">Registration</a>
-					</div>
-				</div>
-	
+<form class="singup-form contact-form" method="post">
+  <div class="row">
+    <div class="col-md-12">
+      <input type="text" name="email" id="email" placeholder="Your Email" autocomplete="off" required>
+    </div>
+    <div class="col-md-12">
+      <input type="password" name="password" id="password" placeholder="Password" autocomplete="off" required>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <button type="submit" id="submit" name="submit" class="site-btn sb-gradient btn-custom">Login</button>
+    </div>
+    <div class="col-md-6">
+      <a href="registration.php" class="site-btn sb-gradient btn-custom">Registration</a>
+    </div>
+  </div>
 </form>
+
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">

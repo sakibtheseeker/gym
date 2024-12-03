@@ -59,7 +59,7 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 				<div class="col-lg-7 m-auto text-white">
 					<h2>Home</h2>
-					<p>Physical Activity Or Can Improve Your Health</p>
+					<p>Welcome to My Gym, your one-stop solution for all fitness needs. Whether you are looking to build strength, lose weight, improve flexibility, or simply lead a healthier lifestyle, we are here to support you every step of the way.</p>
 				</div>
 			</div>
 		</div>
